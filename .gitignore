@@ -1,4 +1,8 @@
 */venv/
 */__pychache__/
 *.idea/
+<<<<<<< HEAD
+*static/
+=======
 static/
+>>>>>>> master
