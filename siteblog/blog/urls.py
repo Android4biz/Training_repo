@@ -1,6 +1,6 @@
 from django.urls import path
 
-from .views import Category, Post, Tag
+from .views import index
 
 
 urlpatterns = [
